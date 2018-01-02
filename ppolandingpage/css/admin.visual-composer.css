@@ -1,0 +1,62 @@
+#visual_composer_content {
+    font-family: 'Roboto', sans-serif;
+}
+#visual_composer_content h2, #visual_composer_content .h2{
+    font-size: 30px;
+    font-weight: 500
+}
+#visual_composer_content .alignleft{float: left; margin-right: 5px; margin-bottom: 5px;}
+#visual_composer_content img.alignleft{margin-right: 20px; margin-bottom: 20px;}
+#visual_composer_content .aligncenter{display: block; margin-left: auto; margin-right: auto;}
+#visual_composer_content .alignright{float: right; margin-left: 5px; margin-bottom: 5px;}
+#visual_composer_content .thim-get-100s .get-100s {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    text-transform: uppercase;
+    margin: 0;
+}
+#visual_composer_content .thim-get-100s h2 {
+    font-size: 72px;
+    line-height: 75px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 2px 0 0;
+}
+#visual_composer_content .thim-color {
+    color: #fff200;
+}
+#visual_composer_content .title1 {
+    font-size: 28px;
+    text-align: center;
+    color: #fff;
+    font-weight: 300;
+    max-width: 450px;
+    padding: 20px;
+    display: block;
+    margin: 40px auto;
+    line-height: 30px;
+    background: #DD3333;
+    border-radius: 10px;
+    position: relative;
+}
+#visual_composer_content .title1:after {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 20px 15px 0 15px;
+    border-color: #DD3333 transparent transparent transparent;
+    content: " ";
+    top: 67px;
+    left: 215px;
+    position: absolute;
+    z-index: 9999;
+}
+#visual_composer_content .exp-list{margin:0;padding:0;list-style:none;color:#fff;font-size:16px}
+#visual_composer_content .exp-list li{padding-bottom: 10px}
+#visual_composer_content .exp-list li i{margin-right: 5px}
+#visual_composer_content .exp-list li a{color: #fff}
+#visual_composer_content .exp-list li a:hover{color: #EA9629}
+#visual_composer_content .skill-list{margin:0;padding:0;list-style:none;font-size:16px}
+#visual_composer_content .skill-list li{padding-bottom: 10px}
+#visual_composer_content .skill-list li i{margin-right: 5px;color:#f15a27}
